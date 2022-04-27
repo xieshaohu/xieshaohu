@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xieshaohu
 - 👀 I’m interested in 团队管理、数据架构、应用架构、各类技术（大数据平台、技术应用，服务于业务场景的应用架构、数据架构）
-- 🌱 I’m currently learning 如何用好 HTAP 类型数据库
-- 💞️ I’m looking to collaborate on 技术交流学习、项目机会、工作机会
+- 🌱 I’m currently learning HTAP Database, Graph Database
+- 💞️ I’m looking to collaborate on 技术交流学习、项目机会、合作机会
 - 📫 How to reach me mailto:shaohu.xie@gmail.com
 
 <!---
